@@ -5,7 +5,7 @@ This is the backend for an ecommerce application which allows for creating, read
 
 ## Screenshots and Videos
 
-### [Walkthrough Video](https://drive.google.com/file/d/1T07QydtbCNC9BOsJxCWt4LXgEkmpeb8j/view)
+### [Walkthrough Video](https://drive.google.com/file/d/1fuq1kk6HAc3aCBZgN-9VDkS43Nh00UDG/view)
 
 ### Example Data
 ![Ecommerce data](/assets/images/ecommerce_README.png)
