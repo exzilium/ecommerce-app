@@ -3,9 +3,15 @@
 ## Description
 This is the backend for an ecommerce application which allows for creating, reading, updating, and deleting data related to shop inventory.
 
-## Screenshots
+## Screenshots and Videos
+
+### [Walkthrough Video](https://drive.google.com/file/d/1T07QydtbCNC9BOsJxCWt4LXgEkmpeb8j/view)
+
 ### Example Data
 ![Ecommerce data](/assets/images/ecommerce_README.png)
+
+
+
 
 ## Table of Contents
 * [Usage Details](#usage)
